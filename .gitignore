@@ -1,8 +1,14 @@
-*.amlignore
-*.amltmp
-.ipynb_aml_checkpoints
+.ipynb_aml_checkpoints/ 
+*.amltmp 
+*.amltemp
 batch-inferencing/
 Data_backup/
+model_download
+outputs/
+prep_for_deploy/
+train/
+Data/checkMe.csv
+Data/checkMe2.csv
 
 .ipynb_aml_checkpoints/ 
 *.amltmp 

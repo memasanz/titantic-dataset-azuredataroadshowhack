@@ -6,6 +6,12 @@
 *.amltemp
 batch-inferencing/
 Data_backup/
+model_download
+outputs/
+prep_for_deploy/
+train/
+Data/checkMe.csv
+Data/checkMe2.csv
 
 *.amlignore
 *.amltmp
